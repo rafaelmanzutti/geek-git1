@@ -45,6 +45,8 @@ Descrever como instalar e preparar qualquer dependência de desenvolvimento para
 ## Meta
 
 Rafael Manzutti - [@MeuInstagram](https://instagram.com/meuInstagram) - meuemail@gmail.com
+
 Distribuído sobre a licença. Veja `LICENÇA` para mais informações.
+
 [link projeto git hub](https://github.com/rafaelmanzutti/rafaelmanzutti.github.io)
 
